@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @abdelrhman-shawky
+- 👀 I’m interested in computational desgin 
+- 🌱 I’m currently learning C# , python , MachinLearning
+- 💞️ I’m looking to collaborate on Computatuinal desgin Projects
+- 📫 How to reach me Abdelrhman.shawky@gmail.com , +0201127392226 (Whats App) 
